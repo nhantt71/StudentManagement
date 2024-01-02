@@ -1,0 +1,43 @@
+{% extends 'admin/master.html' %}
+
+{% block body %}
+
+
+<div class="row">
+  <div class="col-md-5"><h2>Trang Báo Cáo Thống Kê</h2></div>
+  <div class="col-md-7">
+    <canvas id="myChart"></canvas>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+  window.onload = function() {
+    const ctx = document.getElementById('myChart');
+
+    new Chart(ctx, {
+      type: 'pie',
+      data: {
+        labels: [
+          'Red',
+          'Blue',
+          'Yellow'
+        ],
+        datasets: [{
+          label: 'My First Dataset',
+          data: [300, 50, 100],
+          backgroundColor: [
+            'rgb(255, 99, 132)',
+            'rgb(54, 162, 235)',
+            'rgb(255, 205, 86)'
+          ],
+          hoverOffset: 4
+        }]
+      }
+    });
+  }
+
+</script>
+
+{% endblock %}
