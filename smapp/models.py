@@ -35,7 +35,7 @@ class User(BaseModel, UserMixin):
 
 
 class ClassType(BaseModel):
-    class_type_name = Column(String(50), nullable=False)
+    class_type_name = Column(String(50), unique=True, nullable=False)
     classes = relationship('Class', backref='classtype', lazy=True)
 
     def __str__(self):
@@ -44,7 +44,7 @@ class ClassType(BaseModel):
 
 class Class(BaseModel):
     class_name = Column(String(50), nullable=False)
-    number_of_attendants = Column(Integer)
+    number_of_attendants = Column(Integer, default=40)
     class_type_id = Column(Integer, ForeignKey(ClassType.id), nullable=False)
     students = relationship('Student', backref='class', lazy=True)
 
@@ -127,35 +127,66 @@ if __name__ == '__main__':
     with app.app_context():
         # db.create_all()
 
-        # import hashlib
-        # u1 = User(name='Admin',
-        #          username='admin',
-        #          password=str(hashlib.md5('123456'.encode('utf-8')).hexdigest()),
-        #          user_role=UserRoleEnum.ADMIN)
-        #
-        # u2 = User(name='Teacher1',
-        #          username='teacher',
-        #          password=str(hashlib.md5('123456'.encode('utf-8')).hexdigest()),
-        #          user_role=UserRoleEnum.TEACHER)
-        #
+        import hashlib
+        u1 = User(name='Admin',
+                 username='admin',
+                 password=str(hashlib.md5('123456'.encode('utf-8')).hexdigest()),
+                 user_role=UserRoleEnum.ADMIN)
 
-        # y1 = Year(year='2023-2024')
-        # y2 = Year(year='2024-2025')
-        #
-        # s1 = Semester(semester='Học Kỳ 1', year_id=1)
-        # s2 = Semester(semester='Học Kỳ 1', year_id=2)
-        # s3 = Semester(semester='Học Kỳ 2', year_id=1)
-        # s4 = Semester(semester='Học Kỳ 2', year_id=2)
-        #
-        # sub1 = Subject(subject_name='Hóa Học', semester_id=1)
-        # sub2 = Subject(subject_name='Hóa Học', semester_id=2)
-        # sub3 = Subject(subject_name='Vật Lý', semester_id=3)
-        # sub4 = Subject(subject_name='Ngữ Văn', semester_id=4)
-        # sub5 = Subject(subject_name='Ngữ Văn', semester_id=1)
-        #
-        # db.session.add_all([y1, y2])
-        # db.session.add_all([s1, s2, s3, s4])
-        # db.session.add_all([sub1, sub2, sub3, sub4, sub5])
+        u2 = User(name='Teacher1',
+                 username='teacher',
+                 password=str(hashlib.md5('123456'.encode('utf-8')).hexdigest()),
+                 user_role=UserRoleEnum.TEACHER)
+
+        db.session.add_all([u1, u2])
+
+        y1 = Year(year='2023-2024')
+        y2 = Year(year='2024-2025')
+
+        s1 = Semester(semester='Học Kỳ 1', year_id=1)
+        s2 = Semester(semester='Học Kỳ 1', year_id=2)
+        s3 = Semester(semester='Học Kỳ 2', year_id=1)
+        s4 = Semester(semester='Học Kỳ 2', year_id=2)
+
+        sub1 = Subject(subject_name='Hóa Học', semester_id=1)
+        sub2 = Subject(subject_name='Hóa Học', semester_id=2)
+        sub3 = Subject(subject_name='Vật Lý', semester_id=3)
+        sub4 = Subject(subject_name='Ngữ Văn', semester_id=4)
+        sub5 = Subject(subject_name='Ngữ Văn', semester_id=1)
+
+        db.session.add_all([y1, y2])
+        db.session.add_all([s1, s2, s3, s4])
+        db.session.add_all([sub1, sub2, sub3, sub4, sub5])
+
+        ct1 = ClassType(class_type_name="Khối 10")
+        ct2 = ClassType(class_type_name="Khối 11")
+        ct3 = ClassType(class_type_name="Khối 12")
+
+        db.session.add_all([ct1, ct2, ct3])
+
+        c1 = Class(class_name='10A1', class_type_id=1)
+        c2 = Class(class_name='10A2', class_type_id=1)
+        c3 = Class(class_name='10A3', class_type_id=1)
+        c4 = Class(class_name='10A4', class_type_id=1)
+        c5 = Class(class_name='10A5', class_type_id=1)
+        c6 = Class(class_name='10A6', class_type_id=1)
+
+        c11 = Class(class_name='11B1', class_type_id=2)
+        c21 = Class(class_name='11B2', class_type_id=2)
+        c31 = Class(class_name='11B3', class_type_id=2)
+        c41 = Class(class_name='11B4', class_type_id=2)
+        c51 = Class(class_name='11B5', class_type_id=2)
+        c61 = Class(class_name='11B6', class_type_id=2)
+
+        c12 = Class(class_name='12C1', class_type_id=3)
+        c22 = Class(class_name='12C2', class_type_id=3)
+        c32 = Class(class_name='12C3', class_type_id=3)
+        c42 = Class(class_name='12C4', class_type_id=3)
+        c52 = Class(class_name='12C5', class_type_id=3)
+        c62 = Class(class_name='12C6', class_type_id=3)
+
+        db.session.add_all([c1, c2, c3, c4, c5, c6, c11, c21, c31, c41, c51, c61, c12, c22, c32, c42, c52, c62])
+
         db.session.commit()
 
 

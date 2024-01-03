@@ -32,12 +32,13 @@ class MyClassView(AuthenticatedAdmin):
 
 
 class MySubjectManagementView(AuthenticatedAdmin):
+    column_display_pk = True
     column_list = ['subject_name', 'semester']
-    can_create = True
     can_delete = True
     can_edit = True
-    column_searchable_list = ['subject_name', 'semester_id']
+    column_searchable_list = ['subject_name']
     can_view_details = True
+    can_export = True
 
 
 class MyStatsView(AuthenticatedUser):

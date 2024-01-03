@@ -1,18 +1,31 @@
 import math
-from flask import Flask, render_template, request, redirect, session, jsonify
+from flask import Flask, render_template, request, redirect, session, jsonify, url_for
+from functools import wraps
 import dao
 import utils
 from smapp import app, login
-from flask_login import login_user, logout_user, login_required
+from flask_login import login_user, logout_user, current_user
 
 
 @app.route('/')
 def index():
+    if current_user.is_authenticated:
+        avatar = dao.get_avatar_user_by_id(current_user.id)
+        return render_template('index.html', avatar=avatar)
+
     return render_template('index.html')
 
 
+def login_required(f):
+    @wraps(f)
+    def decorated_function(*args, **kwargs):
+        if not session.get("user"):
+            return redirect(url_for('index', next=request.url))
+        return f(*args, **kwargs)
+    return decorated_function
+
+
 @app.route('/login', methods=['get', 'post'])
-@login_required
 def login_user_process():
     if request.method.__eq__('POST'):
         username = request.form.get('username')
@@ -29,7 +42,6 @@ def login_user_process():
 
 
 @app.route('/admin/login', methods=['post'])
-@login_required
 def login_admin_process():
     username = request.form.get('username')
     password = request.form.get('password')
@@ -56,4 +68,3 @@ if __name__ == '__main__':
     from smapp import admin
 
     app.run(debug=True)
-
