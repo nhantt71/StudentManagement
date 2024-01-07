@@ -7,14 +7,14 @@ def load_class():
     return Class.query.all()
 
 
-def load_students(kw=None, class_id=None, page=None):
-    students = Student.query
+def load_official_students(kw=None, class_id=None, page=None):
+    students = OfficialStudent.query
 
     if kw:
-        students = students.filter(Student.fullname.contains(kw))
+        students = students.filter(OfficialStudent.first_name.contains(kw) or OfficialStudent.last_name.contains(kw))
 
     if class_id:
-        students = students.filter(Student.class_id.__eq__(class_id))
+        students = students.filter(OfficialStudent.class_id.__eq__(class_id))
 
     if page:
         page = int(page)
@@ -37,3 +37,14 @@ def auth_user(username, password):
     password = str(hashlib.md5(password.strip().encode('utf-8')).hexdigest())
     return User.query.filter(User.username.__eq__(username.strip()),
                              User.password.__eq__(password)).first()
+
+
+def change_ages_for_reception():
+    pass
+
+
+def change_numbers_of_attendants():
+    pass
+
+
+

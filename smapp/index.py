@@ -1,8 +1,7 @@
 import math
-from flask import Flask, render_template, request, redirect, session, jsonify, url_for
+from flask import Flask, render_template, request, redirect, session, jsonify, url_for, flash
 from functools import wraps
-import dao
-import utils
+import utils, dao
 from smapp import app, login
 from flask_login import login_user, logout_user, current_user
 
@@ -16,13 +15,13 @@ def index():
     return render_template('index.html')
 
 
-def login_required(f):
-    @wraps(f)
-    def decorated_function(*args, **kwargs):
-        if not session.get("user"):
-            return redirect(url_for('index', next=request.url))
-        return f(*args, **kwargs)
-    return decorated_function
+# def login_required(f):
+#     @wraps(f)
+#     def decorated_function(*args, **kwargs):
+#         if not session.get("user"):
+#             return redirect(url_for('index', next=request.url))
+#         return f(*args, **kwargs)
+#     return decorated_function
 
 
 @app.route('/login', methods=['get', 'post'])
@@ -35,20 +34,23 @@ def login_user_process():
         if user:
             login_user(user=user)
 
-        next = request.args.get('next')
-        return redirect('/' if next is None else next)
+            next = request.args.get('next')
+            return redirect('/' if next is None else next)
+        else:
+            flash('Invalid username or password. Please try again.', 'error')
 
     return render_template('login.html')
 
 
 @app.route('/admin/login', methods=['post'])
 def login_admin_process():
-    username = request.form.get('username')
-    password = request.form.get('password')
+    if request.method.__eq__('POST'):
+        username = request.form.get('username')
+        password = request.form.get('password')
 
-    user = dao.auth_user(username=username, password=password)
-    if user:
-        login_user(user=user)
+        user = dao.auth_user(username=username, password=password)
+        if user:
+            login_user(user=user)
 
     return redirect('/admin')
 
