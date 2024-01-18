@@ -1,0 +1,2 @@
+[{"name":"Admin", "username":"admin", "password":"e10adc3949ba59abbe56e057f20f883e", "avatar":"https://res.cloudinary.com/dsp3ymism/image/upload/v1704064887/tatutgw6pg2ackzlhht4.png", "user_role":"ADMIN", "id":1},
+ {"name":"Teacher", "username":"teacher", "password":"e10adc3949ba59abbe56e057f20f883e", "avatar":"https://res.cloudinary.com/dsp3ymism/image/upload/v1704064887/tatutgw6pg2ackzlhht4.png", "user_role":"TEACHER", "id":2}]

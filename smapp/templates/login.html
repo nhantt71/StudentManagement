@@ -20,15 +20,9 @@
     <div class="form-floating mt-3 mb-3" style="margin-left: 200px; margin-right: 200px">
         <button type="submit" name="submit" class="btn btn-danger">Đăng nhập</button>
     </div>
-    {% with messages = get_flashed_messages(with_categories=true) %}
-    {% if messages %}
-    {% for category, message in messages %}
-    <div class="alert alert-{{ category }}">
-        {{ message }}
-    </div>
-    {% endfor %}
+    {% if err_msg %}
+    <div class="text text-danger text-center">{{ err_msg }} Please type again</div>
     {% endif %}
-    {% endwith %}
 </form>
 
 {% endblock %}

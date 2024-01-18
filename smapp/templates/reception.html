@@ -1,0 +1,51 @@
+{% extends 'index.html' %}
+
+<!--for admin-->
+{% block reception2 %}
+<h1>hi</h1>
+{% endblock %}
+
+<!--for staff-->
+{% block reception %}
+<div class="text text-center text-info" style="margin: 30px"><h2>Danh sách học sinh trong hàng chờ tiếp nhận</h2></div>
+<section class="container">
+    <div>
+        <ul class="pagination mt-1">
+            {% for i in range(pages) %}
+            <li class="page-item"><a class="page-link" href="/reception?page={{i+1}}">{{i+1}}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div>
+        <table class="table">
+            <tr>
+                <th style="background-color: #04AA6D">STT</th>
+                <th style="background-color: #04AA6D">Họ và tên</th>
+                <th style="background-color: #04AA6D">Giới tính</th>
+                <th style="background-color: #04AA6D">Ngày sinh</th>
+                <th style="background-color: #04AA6D">Địa chỉ</th>
+                <th style="background-color: #04AA6D">SĐT</th>
+                <th style="background-color: #04AA6D">Email</th>
+                <th style="background-color: #04AA6D">Khối</th>
+                <th style="background-color: #04AA6D">Trạng thái</th>
+                <th style="background-color: #04AA6D">Tiếp nhận</th>
+            </tr>
+            {% for rs in re_students %}
+            <tr>
+                <td>{{ rs.id }}</td>
+                <td>{{ rs.last_name }} {{rs.first_name}}</td>
+                <td>{{ rs.gender }}</td>
+                <td>{{ rs.birth }}</td>
+                <td>{{ rs.address }}</td>
+                <td>{{ rs.phone_number }}</td>
+                <td>{{ rs.email }}</td>
+                <td>{{ rs.class_type }}</td>
+                <td>{{ rs.acceptation }}</td>
+                <td><button onclick="confirm_admission({{ r_student_id }})">Xác nhận</button></td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+</section>
+
+{% endblock %}

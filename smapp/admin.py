@@ -23,13 +23,9 @@ class AuthenticatedHideView(ModelView):
         return False
 
 
-class MyClassTypeView(AuthenticatedHideView):
-    form_columns = ['class_type_name', 'classes']
-
-
 class MyClassView(AuthenticatedAdmin):
-    column_list = ['class_name', 'number_of_attendants', 'classtype']
     column_display_pk = True
+    form_columns = ['class_name', 'number_of_attendants', 'class_type', 'official_students']
     can_delete = True
     can_edit = True
     can_create = True
@@ -38,19 +34,17 @@ class MyClassView(AuthenticatedAdmin):
 
 class MyOfficialStudentView(AuthenticatedAdmin):
     column_display_pk = True
-    column_list = ['id', 'last_name', 'first_name', 'gender', 'birth', 'email', 'class']
     column_searchable_list = ['last_name', 'first_name', 'gender']
     can_export = True
     can_view_details = True
-
-
-class MySemesterView(AuthenticatedHideView):
-    form_columns = ['semester', 'subjects']
+    can_edit = True
+    can_create = True
+    can_delete = True
 
 
 class MySubjectManagementView(AuthenticatedAdmin):
     column_display_pk = True
-    column_list = ['subject_name', 'semester', 'semester.year']
+    column_list = ['subject_name', 'semester']
     can_delete = True
     can_edit = True
     can_create = True
@@ -71,10 +65,15 @@ class MyLogoutView(AuthenticatedUser):
         return redirect('/admin')
 
 
-admin.add_view(MyOfficialStudentView(OfficialStudent, db.session, name='Danh Sách Học Sinh'))
-admin.add_view(MyClassTypeView(ClassType, db.session))
+class MyChangeRegulationView(AuthenticatedUser):
+    @expose("/")
+    def index(self):
+        return self.render('admin/regulations.html')
+
+
 admin.add_view(MyClassView(Class, db.session, name='Danh Sách Lớp'))
-admin.add_view(MySemesterView(Semester, db.session))
+admin.add_view(MyOfficialStudentView(OfficialStudent, db.session, name='Danh Sách Học Sinh'))
 admin.add_view(MySubjectManagementView(Subject, db.session, name='Quản Lý Môn Học'))
+admin.add_view(MyChangeRegulationView(name='Quy định'))
 admin.add_view(MyStatsView(name='Thống kê báo cáo'))
 admin.add_view(MyLogoutView(name='Đăng xuất'))

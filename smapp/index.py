@@ -1,27 +1,33 @@
 import math
-from flask import Flask, render_template, request, redirect, session, jsonify, url_for, flash
-from functools import wraps
-import utils, dao
-from smapp import app, login
+
+from flask import render_template, request, redirect
 from flask_login import login_user, logout_user, current_user
+
+import dao
+from smapp import *
 
 
 @app.route('/')
 def index():
     if current_user.is_authenticated:
-        avatar = dao.get_avatar_user_by_id(current_user.id)
-        return render_template('index.html', avatar=avatar)
+        user = dao.get_user_by_id(current_user.id)
+        return render_template('index.html', user=user)
 
     return render_template('index.html')
 
 
-# def login_required(f):
-#     @wraps(f)
-#     def decorated_function(*args, **kwargs):
-#         if not session.get("user"):
-#             return redirect(url_for('index', next=request.url))
-#         return f(*args, **kwargs)
-#     return decorated_function
+@app.route('/reception')
+def reception():
+    if current_user.is_authenticated:
+        user = dao.get_user_by_id(current_user.id)
+        kw = request.args.get('kw')
+        page = request.args.get('page')
+        re_students = dao.load_reception_students(kw=kw, page=page)
+        total_re_students = dao.count_reception_students()
+        return render_template('reception.html', user=user,
+                               re_students=re_students,
+                               pages=math.ceil(total_re_students/app.config['PAGE_SIZE']))
+    return render_template('login.html')
 
 
 @app.route('/login', methods=['get', 'post'])
@@ -37,8 +43,7 @@ def login_user_process():
             next = request.args.get('next')
             return redirect('/' if next is None else next)
         else:
-            flash('Invalid username or password. Please try again.', 'error')
-
+            return render_template('login.html', err_msg='Wrong username or password!')
     return render_template('login.html')
 
 
@@ -67,6 +72,4 @@ def load_user(user_id):
 
 
 if __name__ == '__main__':
-    from smapp import admin
-
     app.run(debug=True)

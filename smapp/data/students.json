@@ -1,0 +1,3002 @@
+[
+  {
+    "class_id": 14,
+    "first_name": "Qu\u00e2n",
+    "last_name": "\u0110\u1eb7ng Anh",
+    "gender": "FEMALE",
+    "birth": "2009-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0623093056",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 10,
+    "first_name": "H\u1ea1nh",
+    "last_name": "D\u01b0\u01a1ng Ph\u00e1t",
+    "gender": "FEMALE",
+    "birth": "2003-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0672589601",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "B\u1ea3o",
+    "last_name": "V\u00f5 Th\u1ecb",
+    "gender": "MALE",
+    "birth": "1992-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0793247429",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 3,
+    "first_name": "Ph\u00fac",
+    "last_name": "D\u01b0\u01a1ng Qu\u1ef3nh",
+    "gender": "FEMALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0090279795",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 10,
+    "first_name": "Qu\u00e2n",
+    "last_name": "H\u1ed3 Th\u1ecb",
+    "gender": "MALE",
+    "birth": "1988-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0228589636",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "Anh",
+    "last_name": "L\u00ea Cao",
+    "gender": "MALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0806313153",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "H\u1ea1nh",
+    "last_name": "L\u00ea Quang",
+    "gender": "FEMALE",
+    "birth": "2003-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0231226374",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 3,
+    "first_name": "H\u1ea1nh",
+    "last_name": "Ph\u1ea1m Tr\u00ed",
+    "gender": "FEMALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0343992181",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "B\u1ea3o",
+    "last_name": "\u0110\u1eb7ng Tr\u00ed",
+    "gender": "MALE",
+    "birth": "1987-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0883742683",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 9,
+    "first_name": "H\u01b0ng",
+    "last_name": "Ph\u1ea1m Anh",
+    "gender": "FEMALE",
+    "birth": "1996-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0536069260",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "H\u1ea1nh",
+    "last_name": "Ho\u00e0ng Ng\u1ecdc",
+    "gender": "MALE",
+    "birth": "1989-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0590533501",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "Ph\u00fac",
+    "last_name": "Nguy\u1ec5n Tr\u00fac",
+    "gender": "MALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0994295892",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Nga",
+    "last_name": "Phan Tr\u00fac",
+    "gender": "MALE",
+    "birth": "2006-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0846092191",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 1,
+    "first_name": "Ph\u00fac",
+    "last_name": "Ph\u1ea1m T\u00e0i",
+    "gender": "FEMALE",
+    "birth": "1980-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0020046362",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "Tr\u1ea7n T\u00e0i",
+    "gender": "FEMALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0348265808",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 18,
+    "first_name": "Huy\u1ec1n",
+    "last_name": "\u0110inh Quang",
+    "gender": "MALE",
+    "birth": "1983-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0595138550",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "Long",
+    "last_name": "Nguy\u1ec5n Th\u1ecb",
+    "gender": "FEMALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0754495013",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 8,
+    "first_name": "B\u1ea3o",
+    "last_name": "\u0110inh V\u0103n",
+    "gender": "FEMALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0604822381",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Nga",
+    "last_name": "L\u00ea V\u0103n",
+    "gender": "MALE",
+    "birth": "2007-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0890985111",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 9,
+    "first_name": "Anh",
+    "last_name": "Hu\u1ef3nh Th\u1ecb",
+    "gender": "MALE",
+    "birth": "1984-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0273548489",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 13,
+    "first_name": "Long",
+    "last_name": "T\u00f4 Tr\u00ed",
+    "gender": "MALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0397234480",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "T\u00f4 Anh",
+    "gender": "MALE",
+    "birth": "1987-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0764324107",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 12,
+    "first_name": "Minh",
+    "last_name": "Ph\u00f9ng Tr\u00fac",
+    "gender": "FEMALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0727399844",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "Huy\u1ec1n",
+    "last_name": "Tr\u1ea7n Cao",
+    "gender": "FEMALE",
+    "birth": "1984-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0030782442",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 1,
+    "first_name": "H\u1ea1nh",
+    "last_name": "Tr\u1ea7n Tr\u00ed",
+    "gender": "MALE",
+    "birth": "2005-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0943154298",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "H\u01b0ng",
+    "last_name": "H\u1ed3 Th\u1ecb",
+    "gender": "FEMALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0860444217",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 16,
+    "first_name": "Khang",
+    "last_name": "H\u1ed3 Ph\u00e1t",
+    "gender": "FEMALE",
+    "birth": "2009-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0017953624",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "Huy\u1ec1n",
+    "last_name": "D\u01b0\u01a1ng Th\u1ecb",
+    "gender": "FEMALE",
+    "birth": "1980-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0645941338",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Qu\u00e2n",
+    "last_name": "\u0110\u1eb7ng Tr\u00ed",
+    "gender": "MALE",
+    "birth": "2005-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0517816480",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Huy\u1ec1n",
+    "last_name": "\u0110inh T\u00e0i",
+    "gender": "MALE",
+    "birth": "1992-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0883451811",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Long",
+    "last_name": "Ho\u00e0ng V\u0103n",
+    "gender": "FEMALE",
+    "birth": "2003-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0709943115",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "Qu\u00e2n",
+    "last_name": "\u0110inh V\u0103n",
+    "gender": "MALE",
+    "birth": "1984-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0261155173",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 10,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "T\u00f4 Ng\u1ecdc",
+    "gender": "FEMALE",
+    "birth": "2006-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0813390931",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "Qu\u00e2n",
+    "last_name": "Phan Tr\u00fac",
+    "gender": "MALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0741204788",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "Huy\u1ec1n",
+    "last_name": "H\u1ed3 Tr\u00fac",
+    "gender": "MALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0321449004",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "H\u01b0ng",
+    "last_name": "Ph\u1ea1m Tr\u00ed",
+    "gender": "FEMALE",
+    "birth": "1982-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0599179223",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Huy",
+    "last_name": "\u0110\u1eb7ng Th\u1ecb",
+    "gender": "FEMALE",
+    "birth": "2006-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0630903776",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "Huy",
+    "last_name": "H\u1ed3 Tr\u00fac",
+    "gender": "FEMALE",
+    "birth": "2001-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0987354549",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "B\u1ea3o",
+    "last_name": "D\u01b0\u01a1ng Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "2005-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0768060076",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 4,
+    "first_name": "Anh",
+    "last_name": "Phan Tr\u00fac",
+    "gender": "FEMALE",
+    "birth": "2001-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0555747448",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "T\u00f4 Qu\u1ef3nh",
+    "gender": "FEMALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0538542054",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Khang",
+    "last_name": "Hu\u1ef3nh Th\u1ecb",
+    "gender": "MALE",
+    "birth": "1984-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0770606800",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 1,
+    "first_name": "H\u01b0ng",
+    "last_name": "B\u00f9i Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0777385922",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "Huy\u1ec1n",
+    "last_name": "Phan Qu\u1ef3nh",
+    "gender": "MALE",
+    "birth": "1993-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0341947171",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Minh",
+    "last_name": "Phan Ph\u00e1t",
+    "gender": "FEMALE",
+    "birth": "1997-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0786924228",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Khang",
+    "last_name": "Phan Ng\u1ecdc",
+    "gender": "FEMALE",
+    "birth": "2007-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0272699828",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 1,
+    "first_name": "H\u01b0ng",
+    "last_name": "\u0110\u1ed7 Cao",
+    "gender": "FEMALE",
+    "birth": "1997-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0179933136",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 10,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "B\u00f9i Tr\u00fac",
+    "gender": "MALE",
+    "birth": "2001-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0417329690",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "\u0110\u1ed7 Tr\u00fac",
+    "gender": "MALE",
+    "birth": "2007-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0179940611",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 8,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "Tr\u1ea7n Th\u1ecb",
+    "gender": "MALE",
+    "birth": "1989-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0779149715",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 16,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "Ph\u1ea1m Tr\u00ed",
+    "gender": "MALE",
+    "birth": "2005-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0185826702",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 8,
+    "first_name": "H\u1ea1nh",
+    "last_name": "B\u00f9i Ng\u1ecdc",
+    "gender": "MALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0883401692",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 9,
+    "first_name": "Nga",
+    "last_name": "T\u00f4 Cao",
+    "gender": "FEMALE",
+    "birth": "1998-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0405899363",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 1,
+    "first_name": "Nga",
+    "last_name": "B\u00f9i Tr\u00fac",
+    "gender": "MALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0028701167",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "H\u1ea1nh",
+    "last_name": "Ph\u00f9ng Anh",
+    "gender": "FEMALE",
+    "birth": "1991-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0524211397",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 18,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "T\u00f4 Ng\u1ecdc",
+    "gender": "MALE",
+    "birth": "1982-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0168108061",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 12,
+    "first_name": "Ho\u00e0ng",
+    "last_name": "Ph\u1ea1m Th\u1ecb",
+    "gender": "MALE",
+    "birth": "1991-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0389942964",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "H\u01b0ng",
+    "last_name": "Ho\u00e0ng Tr\u00ed",
+    "gender": "MALE",
+    "birth": "1984-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0969683189",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 9,
+    "first_name": "Qu\u00e2n",
+    "last_name": "Ho\u00e0ng Th\u1ecb",
+    "gender": "MALE",
+    "birth": "1980-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0187378993",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Ph\u00fac",
+    "last_name": "Nguy\u1ec5n Quang",
+    "gender": "MALE",
+    "birth": "1984-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0940150607",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "Ph\u00fac",
+    "last_name": "L\u00ea V\u0103n",
+    "gender": "FEMALE",
+    "birth": "1988-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0651354313",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Long",
+    "last_name": "Tr\u1ea7n Tr\u00fac",
+    "gender": "MALE",
+    "birth": "1998-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0730134085",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "Nga",
+    "last_name": "L\u00ea Qu\u1ef3nh",
+    "gender": "MALE",
+    "birth": "2007-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0226412138",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 12,
+    "first_name": "B\u1ea3o",
+    "last_name": "Hu\u1ef3nh Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0699003284",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 1,
+    "first_name": "Khang",
+    "last_name": "L\u00ea V\u0103n",
+    "gender": "FEMALE",
+    "birth": "1982-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0410807285",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 18,
+    "first_name": "Huy\u1ec1n",
+    "last_name": "V\u00f5 Anh",
+    "gender": "MALE",
+    "birth": "2003-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0754432747",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "Hu\u1ef3nh Tr\u00ed",
+    "gender": "FEMALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0130098814",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "H\u01b0ng",
+    "last_name": "Phan Qu\u1ef3nh",
+    "gender": "MALE",
+    "birth": "1986-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0350160362",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "Long",
+    "last_name": "Ho\u00e0ng Anh",
+    "gender": "MALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0540434455",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 13,
+    "first_name": "Nga",
+    "last_name": "Ho\u00e0ng Anh",
+    "gender": "MALE",
+    "birth": "2005-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0617253961",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 9,
+    "first_name": "Huy",
+    "last_name": "T\u00f4 Quang",
+    "gender": "MALE",
+    "birth": "1991-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0306064473",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Khang",
+    "last_name": "\u0110inh Quang",
+    "gender": "FEMALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0001316945",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 16,
+    "first_name": "H\u1ea1nh",
+    "last_name": "\u0110\u1ed7 Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "1996-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0135341967",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "H\u01b0ng",
+    "last_name": "H\u1ed3 Tr\u00ed",
+    "gender": "FEMALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0763166915",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 8,
+    "first_name": "Anh",
+    "last_name": "V\u00f5 Ng\u1ecdc",
+    "gender": "FEMALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0811043570",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 8,
+    "first_name": "H\u1ea1nh",
+    "last_name": "B\u00f9i V\u0103n",
+    "gender": "MALE",
+    "birth": "2001-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0203821579",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 12,
+    "first_name": "Ho\u00e0ng",
+    "last_name": "\u0110\u1eb7ng Th\u1ecb",
+    "gender": "FEMALE",
+    "birth": "1991-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0420362530",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "Long",
+    "last_name": "Nguy\u1ec5n Quang",
+    "gender": "FEMALE",
+    "birth": "1991-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0901075289",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 9,
+    "first_name": "Minh",
+    "last_name": "\u0110\u1eb7ng V\u0103n",
+    "gender": "MALE",
+    "birth": "1981-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0778850970",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 10,
+    "first_name": "Huy",
+    "last_name": "Nguy\u1ec5n Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "2007-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0618864796",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Qu\u00e2n",
+    "last_name": "Ph\u00f9ng Ng\u1ecdc",
+    "gender": "FEMALE",
+    "birth": "1998-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0077560259",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "B\u00f9i Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "1986-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0875098870",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Minh",
+    "last_name": "T\u00f4 Tr\u00fac",
+    "gender": "FEMALE",
+    "birth": "1989-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0335041734",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 13,
+    "first_name": "H\u01b0ng",
+    "last_name": "\u0110inh V\u0103n",
+    "gender": "MALE",
+    "birth": "1999-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0766816994",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 12,
+    "first_name": "H\u1ea1nh",
+    "last_name": "Hu\u1ef3nh Quang",
+    "gender": "FEMALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0134630105",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Qu\u00e2n",
+    "last_name": "Hu\u1ef3nh T\u00e0i",
+    "gender": "MALE",
+    "birth": "2003-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0720832552",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "Minh",
+    "last_name": "L\u00ea Tr\u00ed",
+    "gender": "FEMALE",
+    "birth": "1982-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0648308392",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "Huy\u1ec1n",
+    "last_name": "Phan V\u0103n",
+    "gender": "MALE",
+    "birth": "2007-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0546652795",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "B\u1ea3o",
+    "last_name": "L\u00ea Anh",
+    "gender": "FEMALE",
+    "birth": "2001-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0454797496",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "L\u00ea V\u0103n",
+    "gender": "MALE",
+    "birth": "1995-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0625037020",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "Ph\u00fac",
+    "last_name": "L\u00ea Tr\u00ed",
+    "gender": "FEMALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0397355136",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "T\u00f4 Tr\u00ed",
+    "gender": "MALE",
+    "birth": "2001-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0624215165",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 10,
+    "first_name": "Huy\u1ec1n",
+    "last_name": "V\u00f5 Qu\u1ef3nh",
+    "gender": "FEMALE",
+    "birth": "2009-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0049131994",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Anh",
+    "last_name": "\u0110inh Qu\u1ef3nh",
+    "gender": "FEMALE",
+    "birth": "1995-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0845477396",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Ho\u00e0ng",
+    "last_name": "Ho\u00e0ng Ng\u1ecdc",
+    "gender": "FEMALE",
+    "birth": "1998-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0413088144",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 13,
+    "first_name": "H\u1ea1nh",
+    "last_name": "\u0110\u1eb7ng Quang",
+    "gender": "MALE",
+    "birth": "2003-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0313893816",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 12,
+    "first_name": "Huy",
+    "last_name": "Ph\u00f9ng Qu\u1ef3nh",
+    "gender": "FEMALE",
+    "birth": "1986-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0196492372",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 9,
+    "first_name": "Anh",
+    "last_name": "\u0110\u1ed7 Cao",
+    "gender": "MALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0167404993",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 4,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "Nguy\u1ec5n Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "1994-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0188575291",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 3,
+    "first_name": "Minh",
+    "last_name": "Tr\u1ea7n Anh",
+    "gender": "MALE",
+    "birth": "2003-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0745909602",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 16,
+    "first_name": "B\u1ea3o",
+    "last_name": "Ph\u1ea1m Th\u1ecb",
+    "gender": "FEMALE",
+    "birth": "2007-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0709319370",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 18,
+    "first_name": "H\u1ea1nh",
+    "last_name": "Phan T\u00e0i",
+    "gender": "FEMALE",
+    "birth": "2001-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0261319501",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "Nga",
+    "last_name": "Ho\u00e0ng Quang",
+    "gender": "FEMALE",
+    "birth": "2009-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0364226455",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 4,
+    "first_name": "H\u01b0ng",
+    "last_name": "Phan Quang",
+    "gender": "FEMALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0901783222",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 18,
+    "first_name": "Qu\u00e2n",
+    "last_name": "T\u00f4 Cao",
+    "gender": "MALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0152655711",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Nga",
+    "last_name": "\u0110\u1eb7ng Quang",
+    "gender": "FEMALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0124992257",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 10,
+    "first_name": "Nga",
+    "last_name": "T\u00f4 Quang",
+    "gender": "FEMALE",
+    "birth": "1996-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0314180114",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "Ph\u00fac",
+    "last_name": "\u0110inh V\u0103n",
+    "gender": "MALE",
+    "birth": "1994-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0742112264",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 12,
+    "first_name": "Ph\u00fac",
+    "last_name": "Ho\u00e0ng Quang",
+    "gender": "MALE",
+    "birth": "1993-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0562127423",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "Nga",
+    "last_name": "H\u1ed3 V\u0103n",
+    "gender": "MALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0440424484",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 1,
+    "first_name": "Ho\u00e0ng",
+    "last_name": "Tr\u1ea7n Ng\u1ecdc",
+    "gender": "MALE",
+    "birth": "1996-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0968500939",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Long",
+    "last_name": "Phan Tr\u00ed",
+    "gender": "FEMALE",
+    "birth": "1995-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0228922126",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "Anh",
+    "last_name": "B\u00f9i Tr\u00ed",
+    "gender": "FEMALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0671546921",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "H\u1ea1nh",
+    "last_name": "Tr\u1ea7n Ph\u00e1t",
+    "gender": "FEMALE",
+    "birth": "1990-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0940713820",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Minh",
+    "last_name": "T\u00f4 Tr\u00fac",
+    "gender": "MALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0640940596",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "H\u01b0ng",
+    "last_name": "B\u00f9i Th\u1ecb",
+    "gender": "FEMALE",
+    "birth": "1987-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0507709666",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 1,
+    "first_name": "Huy",
+    "last_name": "L\u00ea Tr\u00fac",
+    "gender": "MALE",
+    "birth": "1983-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0167583432",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "H\u1ea1nh",
+    "last_name": "Ho\u00e0ng Ng\u1ecdc",
+    "gender": "FEMALE",
+    "birth": "2003-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0866024697",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "Long",
+    "last_name": "Nguy\u1ec5n Quang",
+    "gender": "MALE",
+    "birth": "1981-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0179174157",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 12,
+    "first_name": "Qu\u00e2n",
+    "last_name": "Nguy\u1ec5n Anh",
+    "gender": "FEMALE",
+    "birth": "1991-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0681388598",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "Huy",
+    "last_name": "\u0110\u1eb7ng Tr\u00fac",
+    "gender": "FEMALE",
+    "birth": "1985-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0415685666",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 16,
+    "first_name": "Long",
+    "last_name": "Phan Ph\u00e1t",
+    "gender": "FEMALE",
+    "birth": "2007-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0106526728",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 12,
+    "first_name": "Nga",
+    "last_name": "D\u01b0\u01a1ng T\u00e0i",
+    "gender": "FEMALE",
+    "birth": "1980-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0246964862",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "Huy\u1ec1n",
+    "last_name": "Ph\u1ea1m Cao",
+    "gender": "MALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0133415657",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "H\u1ea1nh",
+    "last_name": "Ph\u00f9ng Quang",
+    "gender": "FEMALE",
+    "birth": "1992-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0263217941",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Huy",
+    "last_name": "\u0110\u1eb7ng Anh",
+    "gender": "MALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0540121414",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "Ph\u00fac",
+    "last_name": "V\u00f5 V\u0103n",
+    "gender": "MALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0223355125",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 16,
+    "first_name": "Khang",
+    "last_name": "Phan Quang",
+    "gender": "MALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0267684547",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 13,
+    "first_name": "H\u1ea1nh",
+    "last_name": "Phan Qu\u1ef3nh",
+    "gender": "MALE",
+    "birth": "1988-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0895749083",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "Qu\u00e2n",
+    "last_name": "Nguy\u1ec5n Qu\u1ef3nh",
+    "gender": "FEMALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0226442184",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "L\u00ea Qu\u1ef3nh",
+    "gender": "FEMALE",
+    "birth": "2009-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0860805501",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "Minh",
+    "last_name": "Ph\u00f9ng Anh",
+    "gender": "FEMALE",
+    "birth": "1995-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0010306009",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Anh",
+    "last_name": "Nguy\u1ec5n Th\u1ecb",
+    "gender": "FEMALE",
+    "birth": "1992-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0606071149",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Nga",
+    "last_name": "\u0110inh Qu\u1ef3nh",
+    "gender": "MALE",
+    "birth": "2006-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0072988241",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "B\u1ea3o",
+    "last_name": "Ho\u00e0ng T\u00e0i",
+    "gender": "MALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0067252690",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Nga",
+    "last_name": "V\u00f5 Qu\u1ef3nh",
+    "gender": "MALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0713990248",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "B\u1ea3o",
+    "last_name": "\u0110inh T\u00e0i",
+    "gender": "FEMALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0695240887",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 13,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "\u0110\u1eb7ng V\u0103n",
+    "gender": "MALE",
+    "birth": "1984-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0108753194",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 8,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "Tr\u1ea7n Anh",
+    "gender": "FEMALE",
+    "birth": "2005-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0359235839",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 3,
+    "first_name": "Huy\u1ec1n",
+    "last_name": "Phan Ng\u1ecdc",
+    "gender": "FEMALE",
+    "birth": "1999-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0923876731",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 3,
+    "first_name": "Minh",
+    "last_name": "Ho\u00e0ng V\u0103n",
+    "gender": "MALE",
+    "birth": "2006-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0757185624",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Nga",
+    "last_name": "T\u00f4 V\u0103n",
+    "gender": "MALE",
+    "birth": "1999-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0408900825",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "H\u1ed3 V\u0103n",
+    "gender": "MALE",
+    "birth": "2005-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0767405789",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Ph\u00fac",
+    "last_name": "B\u00f9i Th\u1ecb",
+    "gender": "FEMALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0406126855",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 16,
+    "first_name": "Nga",
+    "last_name": "D\u01b0\u01a1ng Ng\u1ecdc",
+    "gender": "MALE",
+    "birth": "2001-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0023437762",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "Qu\u00e2n",
+    "last_name": "V\u00f5 Qu\u1ef3nh",
+    "gender": "MALE",
+    "birth": "1997-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0393604576",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "Minh",
+    "last_name": "H\u1ed3 V\u0103n",
+    "gender": "FEMALE",
+    "birth": "1996-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0499117862",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "H\u1ea1nh",
+    "last_name": "T\u00f4 Cao",
+    "gender": "FEMALE",
+    "birth": "2001-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0517391555",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "H\u01b0ng",
+    "last_name": "H\u1ed3 Th\u1ecb",
+    "gender": "MALE",
+    "birth": "2007-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0292889115",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 4,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "V\u00f5 Quang",
+    "gender": "MALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0908218785",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 3,
+    "first_name": "H\u1ea1nh",
+    "last_name": "T\u00f4 V\u0103n",
+    "gender": "MALE",
+    "birth": "2007-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0542870654",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "Qu\u00e2n",
+    "last_name": "Hu\u1ef3nh V\u0103n",
+    "gender": "MALE",
+    "birth": "2003-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0428085795",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 10,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "Tr\u1ea7n T\u00e0i",
+    "gender": "MALE",
+    "birth": "2003-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0505706786",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 9,
+    "first_name": "Qu\u00e2n",
+    "last_name": "\u0110inh Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "2006-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0979975508",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Huy",
+    "last_name": "D\u01b0\u01a1ng Quang",
+    "gender": "MALE",
+    "birth": "1987-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0851287506",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 4,
+    "first_name": "B\u1ea3o",
+    "last_name": "L\u00ea T\u00e0i",
+    "gender": "FEMALE",
+    "birth": "2009-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0055872194",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 13,
+    "first_name": "Nga",
+    "last_name": "B\u00f9i Ph\u00e1t",
+    "gender": "FEMALE",
+    "birth": "2001-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0780307052",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Nga",
+    "last_name": "V\u00f5 Qu\u1ef3nh",
+    "gender": "MALE",
+    "birth": "1992-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0705820741",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 8,
+    "first_name": "Qu\u00e2n",
+    "last_name": "Phan T\u00e0i",
+    "gender": "FEMALE",
+    "birth": "1982-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0567304129",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 10,
+    "first_name": "Ph\u00fac",
+    "last_name": "T\u00f4 Th\u1ecb",
+    "gender": "MALE",
+    "birth": "1992-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0864824871",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 18,
+    "first_name": "B\u1ea3o",
+    "last_name": "\u0110\u1ed7 Tr\u00ed",
+    "gender": "MALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0972717893",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Khang",
+    "last_name": "Nguy\u1ec5n Qu\u1ef3nh",
+    "gender": "FEMALE",
+    "birth": "1994-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0300047548",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "Hu\u1ef3nh V\u0103n",
+    "gender": "FEMALE",
+    "birth": "2006-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0303476754",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 4,
+    "first_name": "Minh",
+    "last_name": "Ph\u1ea1m Ng\u1ecdc",
+    "gender": "FEMALE",
+    "birth": "2006-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0293109747",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 4,
+    "first_name": "Qu\u00e2n",
+    "last_name": "\u0110inh Tr\u00fac",
+    "gender": "MALE",
+    "birth": "2006-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0113352550",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "B\u1ea3o",
+    "last_name": "B\u00f9i Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0982202133",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 13,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "Phan Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "1995-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0165693124",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "Khang",
+    "last_name": "D\u01b0\u01a1ng Cao",
+    "gender": "FEMALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0167188763",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 18,
+    "first_name": "Minh",
+    "last_name": "Hu\u1ef3nh Tr\u00ed",
+    "gender": "FEMALE",
+    "birth": "1990-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0833151431",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Huy",
+    "last_name": "Hu\u1ef3nh Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "2003-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0683787868",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 16,
+    "first_name": "Anh",
+    "last_name": "Ho\u00e0ng Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0213500722",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 13,
+    "first_name": "B\u1ea3o",
+    "last_name": "D\u01b0\u01a1ng T\u00e0i",
+    "gender": "FEMALE",
+    "birth": "1987-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0977856949",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 12,
+    "first_name": "Anh",
+    "last_name": "Tr\u1ea7n V\u0103n",
+    "gender": "MALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0057276943",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "Khang",
+    "last_name": "D\u01b0\u01a1ng Th\u1ecb",
+    "gender": "FEMALE",
+    "birth": "1983-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0737529995",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 1,
+    "first_name": "Khang",
+    "last_name": "L\u00ea Ng\u1ecdc",
+    "gender": "MALE",
+    "birth": "1989-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0824049486",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 1,
+    "first_name": "Long",
+    "last_name": "\u0110\u1eb7ng Th\u1ecb",
+    "gender": "FEMALE",
+    "birth": "2007-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0017528903",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "Minh",
+    "last_name": "Nguy\u1ec5n T\u00e0i",
+    "gender": "MALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0467225843",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Huy",
+    "last_name": "Ph\u00f9ng Tr\u00fac",
+    "gender": "MALE",
+    "birth": "1991-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0576594472",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 4,
+    "first_name": "Minh",
+    "last_name": "D\u01b0\u01a1ng Cao",
+    "gender": "MALE",
+    "birth": "1988-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0486210796",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Anh",
+    "last_name": "Nguy\u1ec5n Qu\u1ef3nh",
+    "gender": "MALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0960819617",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Ph\u00fac",
+    "last_name": "Nguy\u1ec5n Tr\u00ed",
+    "gender": "FEMALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0769741096",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 10,
+    "first_name": "H\u1ea1nh",
+    "last_name": "Tr\u1ea7n Th\u1ecb",
+    "gender": "MALE",
+    "birth": "1997-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0487508423",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "\u0110\u1ed7 Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "2009-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0782594910",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "Minh",
+    "last_name": "Hu\u1ef3nh Ph\u00e1t",
+    "gender": "FEMALE",
+    "birth": "2009-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0911067854",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "Long",
+    "last_name": "L\u00ea Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "1984-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0029365583",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Ph\u00fac",
+    "last_name": "\u0110\u1ed7 Qu\u1ef3nh",
+    "gender": "MALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0397746761",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 9,
+    "first_name": "Ho\u00e0ng",
+    "last_name": "Ho\u00e0ng Ph\u00e1t",
+    "gender": "FEMALE",
+    "birth": "2005-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0366928384",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 3,
+    "first_name": "Ho\u00e0ng",
+    "last_name": "Hu\u1ef3nh Tr\u00fac",
+    "gender": "MALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0344297121",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 4,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "\u0110\u1ed7 Tr\u00fac",
+    "gender": "FEMALE",
+    "birth": "1991-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0452913582",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 1,
+    "first_name": "Qu\u00e2n",
+    "last_name": "T\u00f4 Quang",
+    "gender": "FEMALE",
+    "birth": "1991-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0848076715",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 16,
+    "first_name": "Anh",
+    "last_name": "Ho\u00e0ng T\u00e0i",
+    "gender": "FEMALE",
+    "birth": "1992-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0723329314",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "Huy",
+    "last_name": "Ph\u1ea1m T\u00e0i",
+    "gender": "MALE",
+    "birth": "1985-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0108148377",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "H\u01b0ng",
+    "last_name": "H\u1ed3 Quang",
+    "gender": "MALE",
+    "birth": "1995-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0196386837",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "H\u01b0ng",
+    "last_name": "Phan Qu\u1ef3nh",
+    "gender": "FEMALE",
+    "birth": "1985-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0997063950",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 13,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "\u0110\u1ed7 Th\u1ecb",
+    "gender": "FEMALE",
+    "birth": "1990-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0339145612",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 1,
+    "first_name": "Qu\u00e2n",
+    "last_name": "D\u01b0\u01a1ng Quang",
+    "gender": "MALE",
+    "birth": "1987-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0153745204",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "Ho\u00e0ng",
+    "last_name": "T\u00f4 Ng\u1ecdc",
+    "gender": "FEMALE",
+    "birth": "2003-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0109812831",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "Ho\u00e0ng",
+    "last_name": "L\u00ea T\u00e0i",
+    "gender": "MALE",
+    "birth": "2007-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0051636811",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "Nga",
+    "last_name": "Hu\u1ef3nh Anh",
+    "gender": "FEMALE",
+    "birth": "1984-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0560740374",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Anh",
+    "last_name": "V\u00f5 Ng\u1ecdc",
+    "gender": "FEMALE",
+    "birth": "1989-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0944633243",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 1,
+    "first_name": "Qu\u00e2n",
+    "last_name": "Ho\u00e0ng Tr\u00ed",
+    "gender": "MALE",
+    "birth": "2007-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0890354884",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "V\u00f5 Qu\u1ef3nh",
+    "gender": "MALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0347832116",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 9,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "H\u1ed3 Cao",
+    "gender": "MALE",
+    "birth": "1998-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0399441744",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 4,
+    "first_name": "Ph\u00fac",
+    "last_name": "B\u00f9i Ng\u1ecdc",
+    "gender": "FEMALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0739236474",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "Phan T\u00e0i",
+    "gender": "MALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0213047780",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 9,
+    "first_name": "Long",
+    "last_name": "Nguy\u1ec5n Qu\u1ef3nh",
+    "gender": "FEMALE",
+    "birth": "1980-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0453567092",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 16,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "L\u00ea Tr\u00fac",
+    "gender": "FEMALE",
+    "birth": "1982-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0187650543",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "Huy\u1ec1n",
+    "last_name": "\u0110inh T\u00e0i",
+    "gender": "FEMALE",
+    "birth": "2006-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0803122504",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 8,
+    "first_name": "Huy",
+    "last_name": "V\u00f5 Qu\u1ef3nh",
+    "gender": "MALE",
+    "birth": "1988-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0010039785",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "\u0110inh Anh",
+    "gender": "FEMALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0482928285",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Anh",
+    "last_name": "Ho\u00e0ng Th\u1ecb",
+    "gender": "FEMALE",
+    "birth": "1985-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0653025061",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "H\u1ea1nh",
+    "last_name": "D\u01b0\u01a1ng Cao",
+    "gender": "MALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0643940827",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "Nga",
+    "last_name": "Ph\u00f9ng Ng\u1ecdc",
+    "gender": "FEMALE",
+    "birth": "2007-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0011480699",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 4,
+    "first_name": "Nga",
+    "last_name": "Ho\u00e0ng V\u0103n",
+    "gender": "FEMALE",
+    "birth": "1984-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0228933100",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 18,
+    "first_name": "Ho\u00e0ng",
+    "last_name": "H\u1ed3 Anh",
+    "gender": "FEMALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0253671837",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 10,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "Ph\u1ea1m Tr\u00fac",
+    "gender": "MALE",
+    "birth": "1982-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0928576655",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 10,
+    "first_name": "Minh",
+    "last_name": "\u0110\u1ed7 Anh",
+    "gender": "MALE",
+    "birth": "2003-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0044051428",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "Huy",
+    "last_name": "Ph\u00f9ng T\u00e0i",
+    "gender": "MALE",
+    "birth": "1980-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0468142911",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 3,
+    "first_name": "H\u1ea1nh",
+    "last_name": "Phan Anh",
+    "gender": "FEMALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0639460871",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "Huy",
+    "last_name": "L\u00ea Qu\u1ef3nh",
+    "gender": "MALE",
+    "birth": "1990-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0491891875",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 12,
+    "first_name": "Long",
+    "last_name": "H\u1ed3 Tr\u00ed",
+    "gender": "FEMALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0967561306",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Anh",
+    "last_name": "Ph\u1ea1m T\u00e0i",
+    "gender": "FEMALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0268944991",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "H\u1ea1nh",
+    "last_name": "Tr\u1ea7n T\u00e0i",
+    "gender": "MALE",
+    "birth": "2007-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0516700358",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "Huy\u1ec1n",
+    "last_name": "Phan Th\u1ecb",
+    "gender": "MALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0501956526",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "H\u01b0ng",
+    "last_name": "Nguy\u1ec5n Tr\u00fac",
+    "gender": "FEMALE",
+    "birth": "2005-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0932429028",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 3,
+    "first_name": "Khang",
+    "last_name": "H\u1ed3 Tr\u00ed",
+    "gender": "MALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0497420430",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "Huy",
+    "last_name": "T\u00f4 Cao",
+    "gender": "FEMALE",
+    "birth": "1989-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0575152328",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "\u0110inh Tr\u00ed",
+    "gender": "FEMALE",
+    "birth": "2003-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0372302658",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 16,
+    "first_name": "Nga",
+    "last_name": "V\u00f5 Tr\u00ed",
+    "gender": "FEMALE",
+    "birth": "1983-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0389263664",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "Minh",
+    "last_name": "Hu\u1ef3nh Quang",
+    "gender": "FEMALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0727973277",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "H\u01b0ng",
+    "last_name": "Ho\u00e0ng Quang",
+    "gender": "FEMALE",
+    "birth": "1995-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0736047715",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 3,
+    "first_name": "Huy\u1ec1n",
+    "last_name": "V\u00f5 Qu\u1ef3nh",
+    "gender": "FEMALE",
+    "birth": "1996-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0012555288",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Qu\u00e2n",
+    "last_name": "Phan Ng\u1ecdc",
+    "gender": "FEMALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0107943677",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "Huy\u1ec1n",
+    "last_name": "Phan T\u00e0i",
+    "gender": "FEMALE",
+    "birth": "2005-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0366766637",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 10,
+    "first_name": "Qu\u00e2n",
+    "last_name": "Hu\u1ef3nh Tr\u00fac",
+    "gender": "MALE",
+    "birth": "1980-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0209677457",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 16,
+    "first_name": "H\u01b0ng",
+    "last_name": "V\u00f5 Tr\u00fac",
+    "gender": "MALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0133104997",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "Long",
+    "last_name": "Ph\u1ea1m Anh",
+    "gender": "MALE",
+    "birth": "1986-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0283144323",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 18,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "V\u00f5 Ph\u00e1t",
+    "gender": "FEMALE",
+    "birth": "1989-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0453346261",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "H\u01b0ng",
+    "last_name": "\u0110inh Tr\u00ed",
+    "gender": "FEMALE",
+    "birth": "2003-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0335072691",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "Ph\u00f9ng Quang",
+    "gender": "MALE",
+    "birth": "1990-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0469100611",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "Ph\u1ea1m Th\u1ecb",
+    "gender": "MALE",
+    "birth": "1988-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0295322950",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Nga",
+    "last_name": "V\u00f5 Ph\u00e1t",
+    "gender": "FEMALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0408529404",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 16,
+    "first_name": "Ph\u00fac",
+    "last_name": "H\u1ed3 T\u00e0i",
+    "gender": "MALE",
+    "birth": "1985-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0409551147",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "Khang",
+    "last_name": "Nguy\u1ec5n Ng\u1ecdc",
+    "gender": "FEMALE",
+    "birth": "1999-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0149038172",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 18,
+    "first_name": "B\u1ea3o",
+    "last_name": "Nguy\u1ec5n Qu\u1ef3nh",
+    "gender": "MALE",
+    "birth": "2009-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0981609327",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 8,
+    "first_name": "Huy",
+    "last_name": "H\u1ed3 Tr\u00ed",
+    "gender": "MALE",
+    "birth": "2007-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0631516107",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "Ph\u00fac",
+    "last_name": "H\u1ed3 Qu\u1ef3nh",
+    "gender": "MALE",
+    "birth": "2005-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0270883770",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "H\u01b0ng",
+    "last_name": "Ph\u00f9ng Ph\u00e1t",
+    "gender": "FEMALE",
+    "birth": "1999-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0350901224",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "Huy\u1ec1n",
+    "last_name": "Tr\u1ea7n T\u00e0i",
+    "gender": "MALE",
+    "birth": "2003-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0384511194",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 12,
+    "first_name": "B\u1ea3o",
+    "last_name": "\u0110\u1eb7ng Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "1998-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0390069302",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "H\u01b0ng",
+    "last_name": "Ph\u1ea1m Th\u1ecb",
+    "gender": "FEMALE",
+    "birth": "1999-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0562396514",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 16,
+    "first_name": "B\u1ea3o",
+    "last_name": "Ho\u00e0ng Th\u1ecb",
+    "gender": "MALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0752015577",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 10,
+    "first_name": "Long",
+    "last_name": "Hu\u1ef3nh Cao",
+    "gender": "FEMALE",
+    "birth": "2001-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0798758581",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 9,
+    "first_name": "H\u1ea1nh",
+    "last_name": "V\u00f5 Ng\u1ecdc",
+    "gender": "FEMALE",
+    "birth": "2001-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0089079370",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Ho\u00e0ng",
+    "last_name": "Ph\u00f9ng V\u0103n",
+    "gender": "FEMALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0396477858",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 13,
+    "first_name": "Nga",
+    "last_name": "Phan Ng\u1ecdc",
+    "gender": "FEMALE",
+    "birth": "1989-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0305569799",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 3,
+    "first_name": "Minh",
+    "last_name": "V\u00f5 Qu\u1ef3nh",
+    "gender": "MALE",
+    "birth": "1998-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0418234723",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 18,
+    "first_name": "Qu\u00e2n",
+    "last_name": "H\u1ed3 Quang",
+    "gender": "MALE",
+    "birth": "1982-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0078453566",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 9,
+    "first_name": "Huy",
+    "last_name": "H\u1ed3 Anh",
+    "gender": "MALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0149428754",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 4,
+    "first_name": "Khang",
+    "last_name": "Nguy\u1ec5n Cao",
+    "gender": "MALE",
+    "birth": "1999-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0624750076",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Nga",
+    "last_name": "T\u00f4 Quang",
+    "gender": "MALE",
+    "birth": "2009-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0741075746",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 16,
+    "first_name": "Qu\u00e2n",
+    "last_name": "\u0110\u1eb7ng T\u00e0i",
+    "gender": "FEMALE",
+    "birth": "2001-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0878760894",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "Huy",
+    "last_name": "T\u00f4 Qu\u1ef3nh",
+    "gender": "MALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0491320020",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Minh",
+    "last_name": "B\u00f9i Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "2005-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0744874782",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Long",
+    "last_name": "L\u00ea Ng\u1ecdc",
+    "gender": "MALE",
+    "birth": "2007-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0932933809",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Minh",
+    "last_name": "Ph\u00f9ng Ng\u1ecdc",
+    "gender": "MALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0184229759",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "H\u1ea1nh",
+    "last_name": "Nguy\u1ec5n Anh",
+    "gender": "MALE",
+    "birth": "2009-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0264510653",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "Qu\u00e2n",
+    "last_name": "Ph\u1ea1m Ng\u1ecdc",
+    "gender": "FEMALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0834646911",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "Ph\u00fac",
+    "last_name": "Tr\u1ea7n Tr\u00fac",
+    "gender": "FEMALE",
+    "birth": "2009-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0544426279",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Nga",
+    "last_name": "\u0110\u1eb7ng V\u0103n",
+    "gender": "MALE",
+    "birth": "1997-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0545073626",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 1,
+    "first_name": "H\u1ea1nh",
+    "last_name": "B\u00f9i V\u0103n",
+    "gender": "FEMALE",
+    "birth": "1999-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0015749890",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "Ph\u00fac",
+    "last_name": "L\u00ea Qu\u1ef3nh",
+    "gender": "FEMALE",
+    "birth": "1984-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0643530308",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 3,
+    "first_name": "B\u1ea3o",
+    "last_name": "Phan Th\u1ecb",
+    "gender": "MALE",
+    "birth": "1991-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0328274581",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "H\u1ea1nh",
+    "last_name": "V\u00f5 Tr\u00fac",
+    "gender": "MALE",
+    "birth": "2005-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0726812768",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "Minh",
+    "last_name": "Hu\u1ef3nh Tr\u00fac",
+    "gender": "FEMALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0381206221",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 9,
+    "first_name": "B\u1ea3o",
+    "last_name": "D\u01b0\u01a1ng Th\u1ecb",
+    "gender": "MALE",
+    "birth": "2009-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0763615082",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 16,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "Ph\u1ea1m Cao",
+    "gender": "MALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0981354644",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 9,
+    "first_name": "Nga",
+    "last_name": "Ho\u00e0ng Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "2004-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0917573697",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "Anh",
+    "last_name": "V\u00f5 T\u00e0i",
+    "gender": "FEMALE",
+    "birth": "2005-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0832991775",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 3,
+    "first_name": "H\u1ea1nh",
+    "last_name": "Ph\u00f9ng Cao",
+    "gender": "MALE",
+    "birth": "2001-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0859122217",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "H\u01b0ng",
+    "last_name": "Nguy\u1ec5n Ph\u00e1t",
+    "gender": "FEMALE",
+    "birth": "1984-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0312948068",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 1,
+    "first_name": "B\u1ea3o",
+    "last_name": "Tr\u1ea7n Anh",
+    "gender": "MALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0644140851",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 15,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "Ho\u00e0ng T\u00e0i",
+    "gender": "MALE",
+    "birth": "1985-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0922140281",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "B\u1ea3o",
+    "last_name": "T\u00f4 Qu\u1ef3nh",
+    "gender": "FEMALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0632867019",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "Ho\u00e0ng",
+    "last_name": "Phan Tr\u00ed",
+    "gender": "MALE",
+    "birth": "1991-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0104021625",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "Ho\u00e0ng Qu\u1ef3nh",
+    "gender": "FEMALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0802710976",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "Ho\u00e0ng",
+    "last_name": "\u0110\u1ed7 Cao",
+    "gender": "FEMALE",
+    "birth": "1991-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0704562121",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 3,
+    "first_name": "Minh",
+    "last_name": "V\u00f5 Tr\u00ed",
+    "gender": "FEMALE",
+    "birth": "1989-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0415938819",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "Huy",
+    "last_name": "V\u00f5 T\u00e0i",
+    "gender": "MALE",
+    "birth": "1984-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0613042868",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Ph\u00fac",
+    "last_name": "T\u00f4 Cao",
+    "gender": "FEMALE",
+    "birth": "1988-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0301216653",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 2,
+    "first_name": "Huy",
+    "last_name": "B\u00f9i T\u00e0i",
+    "gender": "FEMALE",
+    "birth": "2002-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0279244529",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 7,
+    "first_name": "Minh",
+    "last_name": "Hu\u1ef3nh T\u00e0i",
+    "gender": "FEMALE",
+    "birth": "1995-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0491511294",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 5,
+    "first_name": "Th\u1ecbnh",
+    "last_name": "Hu\u1ef3nh Quang",
+    "gender": "FEMALE",
+    "birth": "1998-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0412493177",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 17,
+    "first_name": "Ho\u00e0ng",
+    "last_name": "H\u1ed3 T\u00e0i",
+    "gender": "FEMALE",
+    "birth": "1982-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0910329053",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 11,
+    "first_name": "Ph\u01b0\u01a1ng",
+    "last_name": "Ph\u00f9ng T\u00e0i",
+    "gender": "MALE",
+    "birth": "2005-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0853312104",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 18,
+    "first_name": "B\u1ea3o",
+    "last_name": "Nguy\u1ec5n Tr\u00ed",
+    "gender": "FEMALE",
+    "birth": "1988-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0856646265",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Minh",
+    "last_name": "L\u00ea Th\u1ecb",
+    "gender": "FEMALE",
+    "birth": "1995-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0899214270",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 8,
+    "first_name": "Anh",
+    "last_name": "V\u00f5 V\u0103n",
+    "gender": "MALE",
+    "birth": "2000-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0650659152",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 6,
+    "first_name": "B\u1ea3o",
+    "last_name": "Tr\u1ea7n Quang",
+    "gender": "FEMALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0931013314",
+    "email": "student@example.com"
+  },
+  {
+    "class_id": 14,
+    "first_name": "Anh",
+    "last_name": "Hu\u1ef3nh Ph\u00e1t",
+    "gender": "MALE",
+    "birth": "2008-01-01",
+    "address": "S\u1ed1 123 \u0111\u01b0\u1eddng ABC, ph\u01b0\u1eddng XYZ, qu\u1eadn DEF, th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "phone_number": "0622730926",
+    "email": "student@example.com"
+  }
+]

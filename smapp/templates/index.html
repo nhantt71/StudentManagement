@@ -4,15 +4,77 @@
 
 {% block content %}
 
+{% if current_user.is_authenticated %}
+    {% if current_user.user_role.name == "ADMIN" %}
+        <div class="row" style="height:3000px">
+            <div class="col-md-2" style="background-color: #333333; color: white; height: 100%;">
+                <p class="fw-bold text-uppercase" style="margin: 15px 10px 15px"><img src="{{ user.avatar }}"
+                                                                                      style="margin-right: 5px; border-radius: 50%;" width="40px"
+                                                                                      height="40px"/> {{ user.name }}</p>
+                <p class="" style="color: #F8F8FF; background-color: black; height: 50px;
+                vertical-align: middle; padding: 10px;">MENU</p>
+                <p style="margin: 30px 15px 15px;"><i class='fas fa-user-alt'></i><a class="text text-white fw-bold" style="text-decoration: none"
+                                                      href="{{ url_for('reception') }}"> Tiếp nhận học sinh</a></p>
+                <p style="margin: 30px 15px 15px;"><i class='fas fa-calculator'></i><a class="text text-white fw-bold" style="text-decoration: none"
+                                                      href=""> Quản lý điểm</a></p>
+                <p style="margin: 30px 15px 15px;"><i class='fas fa-user-edit'></i><a class="text text-white fw-bold" style="text-decoration: none"
+                                                      href=""> Điều chỉnh lớp học</a></p>
+                <p style="margin: 30px 15px 15px;"><i class='fas fa-address-book'></i><a class="text text-white fw-bold" style="text-decoration: none"
+                                                      href=""> Xem danh sách học sinh</a></p>
+            </div>
+            <div class="col-md-10" id="reception" style="background-color: white; height: 100%;">
+                {% block reception %}{% endblock %}
+            </div>
+        </div>
+    {% endif %}
+    {% if current_user.user_role.name == "TEACHER" %}
+    <div class="row" style="height:3000px">
+            <div class="col-md-2" style="background-color: #333333; color: white; height: 100%;">
+                <p class="fw-bold text-uppercase" style="margin: 15px 10px 15px"><img src="{{ user.avatar }}"
+                                                                                      style="margin-right: 5px; border-radius: 50%;" width="40px"
+                                                                                      height="40px"/> {{ user.name }}</p>
+                <p class="" style="color: #F8F8FF; background-color: black; height: 50px;
+                vertical-align: middle; padding: 10px;">MENU</p>
+                <p style="margin: 30px 15px 15px;"><i class='fas fa-calculator'></i><a class="text text-white fw-bold" style="text-decoration: none"
+                                                      href=""> Quản lý điểm</a></p>
+                <p style="margin: 30px 15px 15px;"><i class='fas fa-address-book'></i><a class="text text-white fw-bold" style="text-decoration: none"
+                                                      href=""> Xem danh sách học sinh</a></p>
+            </div>
+            <div class="col-md-10" id="r2" style="background-color: white; height: 100%;">
 
-<div class="row" style="height:550px">
-    <div class="col-md-2" style="background-color: #333333; color: white; height: 100%;">
-        <p>Cột bên trái</p>
+            </div>
+        </div>
+    {% endif %}
+    {% if current_user.user_role.name == "STAFF" %}
+        <div class="row" style="height:3000px">
+            <div class="col-md-2" style="background-color: #333333; color: white; height: 100%;">
+                <p class="fw-bold text-uppercase" style="margin: 15px 10px 15px"><img src="{{ user.avatar }}"
+                                                                                      style="margin-right: 5px; border-radius: 50%;" width="40px"
+                                                                                      height="40px"/> {{ user.name }}</p>
+                <p class="" style="color: #F8F8FF; background-color: black; height: 50px;
+                vertical-align: middle; padding: 10px;">MENU</p>
+                <p style="margin: 30px 15px 15px;"><i class='fas fa-user-alt'></i><a class="text text-white fw-bold" style="text-decoration: none"
+                                                      href="{{ url_for('reception') }}"> Tiếp nhận học sinh</a></p>
+                <p style="margin: 30px 15px 15px;"><i class='fas fa-user-edit'></i><a class="text text-white fw-bold" style="text-decoration: none"
+                                                      href=""> Điều chỉnh lớp học</a></p>
+            </div>
+            <div class="col-md-10" id="reception2" style="background-color: white; height: 100%;">
+                {% block reception2 %}{% endblock %}
+            </div>
+        </div>
+    {% endif %}
+{% else %}
+    <div class="row" style="height:750px">
+        <div class="col-md-2" style="background-color: #333333; color: white; height: 100%">
+            <p>
+            <h3>Vui lòng đăng nhập để có thể thực hiện các chức năng!</h3></p>
+        </div>
+        <div class="col-md-10" style="background-color: white; height: 100%;">
+            <p>
+            <h3>Vui lòng đăng nhập để có thể thực hiện các chức năng!</h3></p>
+        </div>
     </div>
-    <div class="col-md-10" style="background-color: white; height: 100%;">
-        <p>Cột bên phải</p>
-    </div>
-</div>
+{% endif %}
 
 
 {% endblock %}
